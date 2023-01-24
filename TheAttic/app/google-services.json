@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503660450693",
+    "project_id": "the-attic1",
+    "storage_bucket": "the-attic1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503660450693:android:ab6719f4cb7877d7baaaec",
+        "android_client_info": {
+          "package_name": "com.evelyne.labs.theattic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503660450693-qu726t0k85q4nkq8svetjg8kuhg5g3ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi2DQloOkTet2Vi9Z_2DjmBCgjk6EFGrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503660450693-qu726t0k85q4nkq8svetjg8kuhg5g3ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
